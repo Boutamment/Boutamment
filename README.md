@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mohamed
+# Hi there I'm Mohamed Boutamment
 
 ### Software Engineering Student
 
@@ -12,9 +12,6 @@ I enjoy solving complex problems, learning new technologies, and building softwa
 
 * 🎓 Software Engineering student at **INPT (National Institute of Posts and Telecommunications)**
 * 💻 Passionate about Backend Development
-* 🌱 Currently exploring Distributed Systems, Microservices, Cloud Computing, and DevOps
-* 📚 Preparing for Oracle Certified Professional: Java SE 17 Developer
-* 🎯 Interested in Software Engineering, System Design, and High-Performance Backend Applications
 
 
 ---
