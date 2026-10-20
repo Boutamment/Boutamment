@@ -92,10 +92,10 @@ I'm a Software Engineering student at the **National Institute of Posts and Tele
 <br/><br/>
 
 <a href="https://catalog-education.oracle.com/">
-<img src="https://img.shields.io/badge/ORACLE%20CLOUD-FOUNDATIONS%20ASSOCIATE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure Foundations Associate"/>
+<img src="https://img.shields.io/badge/ORACLE-CERTIFIED%20PROFESSIONAL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified Professional"/>
 </a>
 
-**Oracle Cloud Infrastructure Foundations Associate**
+**Oracle Certified Professional: Java SE 17 Developer**
 
 </div>
 
