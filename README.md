@@ -20,33 +20,11 @@
 
 I'm a Software Engineering student at the **National Institute of Posts and Telecommunications (INPT), Rabat, Morocco**, passionate about backend engineering, distributed systems, and building reliable software solutions.
 
-My mathematical and physics background from preparatory classes helped me develop analytical thinking and a structured approach to problem-solving. Today, I apply these skills to designing APIs, developing microservices, and exploring intelligent systems.
-
 - 🎓 Software Engineering student at INPT
 - ☕ Backend development with Java, Spring Boot, and REST APIs
 - ⚙️ Interested in distributed systems, event-driven architecture, and system reliability
 - ☁️ Exploring cloud-native technologies, containerization, and DevOps
 - 🤖 Building AI-assisted applications and intelligent backend systems
-- 🏅 Oracle Certified Professional: Java SE 21 Developer
-
-```java
-public class Mohamed {
-
-    private final String education = "Software Engineering @ INPT";
-    private final String specialization = "Backend & Distributed Systems";
-
-    private final String[] interests = {
-        "Microservices",
-        "Cloud-Native Engineering",
-        "AI-Powered Applications",
-        "System Design"
-    };
-
-    public String getMindset() {
-        return "Understand deeply. Build reliably. Improve continuously.";
-    }
-}
-```
 
 ---
 
@@ -70,12 +48,16 @@ public class Mohamed {
 
 ### Databases & Messaging
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,kafka&theme=dark" alt="Databases and messaging"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, and Apache Kafka"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square" alt="JPA and Hibernate"/>
+<img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA and Hibernate"/>
 <img src="https://img.shields.io/badge/pgvector-0A5C99?style=flat-square" alt="pgvector"/>
+
+</div>
 
 ### Cloud & DevOps
 
@@ -94,43 +76,6 @@ public class Mohamed {
 <img src="https://img.shields.io/badge/Anomaly%20Detection-0A5C99?style=flat-square" alt="Anomaly detection"/>
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 Intelligent Microservices Debugging Platform
-
-An intelligent debugging platform that combines distributed observability and AI-assisted root-cause analysis to help investigate failures across microservices.
-
-- Collecting and correlating logs, metrics, and distributed traces.
-- Exploring anomaly detection and asynchronous event processing with Kafka.
-- Integrating LLM-powered analysis and RAG for contextual root-cause explanations.
-- Monitoring system behavior using Prometheus and Grafana.
-
-**Tech:** Java 21 · Spring Boot · Spring Cloud · Kafka · OpenTelemetry · Prometheus · Grafana · Kubernetes · Spring AI
-
-### ☁️ Cloud FinOps Platform
-
-A platform designed to improve cloud cost visibility and support cost-optimization decisions through analytics and intelligent insights.
-
-- Developed a Spring Boot backend secured with JWT authentication and role-based access control.
-- Built a React dashboard for visualizing and analyzing cost-related data.
-- Integrated an AI component to support cost analysis and recommendations.
-- Containerized the application and configured a Jenkins CI/CD pipeline.
-
-**Tech:** Java · Spring Boot · Spring Security · PostgreSQL · React · Docker · Jenkins
-
-### ⚡ Real-Time Medical Dispatch Engine
-
-A backend-oriented dispatch engine developed during my software engineering internship, using simulated data to explore intelligent matching between healthcare requests and professionals.
-
-- Designed backend workflows for request processing and dispatching.
-- Explored semantic matching using sentence embeddings and vector search.
-- Worked with Redis-based request processing and availability matching.
-- Used monitoring tools to explore observability for backend services.
-
-**Tech:** Java 21 · Spring Boot · Python · FastAPI · Redis · PostgreSQL · pgvector · Sentence Transformers · Prometheus · Grafana
 
 ---
 
