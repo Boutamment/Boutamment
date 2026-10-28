@@ -8,27 +8,23 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Boutamment&label=Profile%20Views&color=0A5C99&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Boutamment?style=for-the-badge&logo=github&color=0A5C99" alt="GitHub followers"/>
-<img src="https://img.shields.io/badge/INPT-Rabat%2C%20Morocco-0A5C99?style=for-the-badge" alt="INPT"/>
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Software Engineering student at the **National Institute of Posts and Telecommunications (INPT), Rabat, Morocco**, passionate about backend engineering, distributed systems, and building reliable software solutions.
 
-- 🎓 Software Engineering student at INPT
-- ☕ Backend development with Java, Spring Boot, and REST APIs
-- ⚙️ Interested in distributed systems, event-driven architecture, and system reliability
-- ☁️ Exploring cloud-native technologies, containerization, and DevOps
-- 🤖 Building AI-assisted applications and intelligent backend systems
+- Software Engineering student at INPT
+- Backend development with Java, Spring Boot, and REST APIs
+- Interested in distributed systems, event-driven architecture, and system reliability
+- Exploring cloud-native technologies, containerization, and DevOps
+- Building AI-assisted applications and intelligent backend systems
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -79,7 +75,7 @@ I'm a Software Engineering student at the **National Institute of Posts and Tele
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 <div align="center">
 
@@ -101,7 +97,7 @@ I'm a Software Engineering student at the **National Institute of Posts and Tele
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -117,7 +113,7 @@ I'm a Software Engineering student at the **National Institute of Posts and Tele
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -127,7 +123,7 @@ I'm a Software Engineering student at the **National Institute of Posts and Tele
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm interested in software engineering opportunities and discussions about backend architecture, distributed systems, cloud technologies, and AI-driven applications.
 
