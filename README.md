@@ -62,9 +62,6 @@ Internship backend exploring intelligent matching between healthcare requests an
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Boutamment&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boutamment&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=Boutamment&theme=tokyonight&hide_border=true&ring=00b4ff&fire=ff6b35&currStreakLabel=00b4ff" alt="Contribution streak"/>
 
 <picture>
