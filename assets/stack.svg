@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 582" width="900" height="582" role="img" aria-label="My tech stack shown as kubectl get pods" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkYmNhYjIzYS1jM2M0LTQxZTEtYWU0Ny1jYTM4ODUxNjExZDQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaATbzt173zBRGoewd7cBi0wAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1NTAzZTYwZC00M2Q1LTQ5MGUtYWYwMS1jN2NmYmQ2MWU5ZWJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoTkUMLeRFGiaSaKg0mj+e5gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggTqZ9qX0evHSQmUOOd21GCTcEQRLHbhDrKgFiZ5hWLzykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJ2sZG/OfarjQlJMVK1M4AIAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIKOqDW0xGvsrr6b3h0yK+wt4enbFkmNl18tvgZxD/EYuZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQEoZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmRiY2FiMjNhLWMzYzQtNDFlMS1hZTQ3LWNhMzg4NTE2MTFkNC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmRhZjE0YzQ1LTI5ZTYtNDc0NS04MTNjLTUxYWY4ZjQ0ZGFmM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBOpn2pfR68dJCZQ453bUYJNwRBEsduEOsqAWJnmFYvPKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggSeFXZKY8848C0iqwHNTA6ukn/vA6lZG3AO/v5Z899SmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg/eXuI5Rw+zqmALymfkQz4Jdan8Eof7ofss/aJOI6K/t0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCYtr6hhY8FPHQAmMOxi0uOBC9zhpSkeCETieMC1ZGnhknv2/7qthPZQYc4qX/1ZhWKAQ9wSGhHB2fpeF7M6NtE=</c2pa:manifest></metadata>
+<title>My tech stack shown as kubectl get pods</title>
+<style>
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.sans{font-family:"Segoe UI",-apple-system,Helvetica,Arial,sans-serif}
+</style>
+
+<defs><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="cmdclip"><rect x="24" y="12" width="0" height="30">
+<animate attributeName="width" values="0;330;330;0" keyTimes="0;0.2;0.95;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="900" height="582" rx="14" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="899" height="581" rx="14" fill="none" stroke="#30363d"/>
+<g clip-path="url(#cmdclip)"><text x="24" y="34" class="mono" font-size="14"><tspan fill="#00e5a0">mohamed@inpt:~$</tspan><tspan fill="#e6edf3"> kubectl get pods -A</tspan></text></g>
+<text x="876" y="34" text-anchor="end" class="mono" font-size="11" fill="#6e7681">cluster: inpt-rabat  ·  context: always-learning</text>
+<rect x="20" y="56" width="420" height="122" rx="8" fill="#161b22" stroke="#ed8b00" stroke-opacity="0.55"/>
+<text x="36" y="78" class="mono" font-size="11" font-weight="700" fill="#ed8b00">NAMESPACE  languages</text>
+<text x="270" y="78" class="mono" font-size="9" fill="#6e7681">READY</text>
+<text x="318" y="78" class="mono" font-size="9" fill="#6e7681">STATUS</text>
+<circle cx="38" cy="97" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="97" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="54" y="100" class="mono" font-size="11" fill="#e6edf3">java-21<tspan fill="#6e7681">-c8b10</tspan></text>
+<text x="270" y="100" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="318" y="100" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="38" cy="117" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.23s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="117" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.23s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.23s" repeatCount="indefinite"/></circle>
+<text x="54" y="120" class="mono" font-size="11" fill="#e6edf3">python<tspan fill="#6e7681">-23eee</tspan></text>
+<text x="270" y="120" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="318" y="120" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="38" cy="137" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.46s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="137" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.46s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.46s" repeatCount="indefinite"/></circle>
+<text x="54" y="140" class="mono" font-size="11" fill="#e6edf3">javascript<tspan fill="#6e7681">-de9b9</tspan></text>
+<text x="270" y="140" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="318" y="140" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="38" cy="157" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.69s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="157" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.69s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.69s" repeatCount="indefinite"/></circle>
+<text x="54" y="160" class="mono" font-size="11" fill="#e6edf3">sql<tspan fill="#6e7681">-ac5c7</tspan></text>
+<text x="270" y="160" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="318" y="160" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<rect x="20" y="190" width="420" height="142" rx="8" fill="#161b22" stroke="#6db33f" stroke-opacity="0.55"/>
+<text x="36" y="212" class="mono" font-size="11" font-weight="700" fill="#6db33f">NAMESPACE  backend</text>
+<text x="270" y="212" class="mono" font-size="9" fill="#6e7681">READY</text>
+<text x="318" y="212" class="mono" font-size="9" fill="#6e7681">STATUS</text>
+<circle cx="38" cy="231" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.92s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="231" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.92s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.92s" repeatCount="indefinite"/></circle>
+<text x="54" y="234" class="mono" font-size="11" fill="#e6edf3">spring-boot<tspan fill="#6e7681">-91f1f</tspan></text>
+<text x="270" y="234" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="318" y="234" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="38" cy="251" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="1.15s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="251" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="1.15s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="1.15s" repeatCount="indefinite"/></circle>
+<text x="54" y="254" class="mono" font-size="11" fill="#e6edf3">spring-security<tspan fill="#6e7681">-bdcaf</tspan></text>
+<text x="270" y="254" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="318" y="254" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="38" cy="271" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="1.38s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="271" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="1.38s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="1.38s" repeatCount="indefinite"/></circle>
+<text x="54" y="274" class="mono" font-size="11" fill="#e6edf3">spring-cloud<tspan fill="#6e7681">-62377</tspan></text>
+<text x="270" y="274" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="318" y="274" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="38" cy="291" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="1.61s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="291" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="1.61s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="1.61s" repeatCount="indefinite"/></circle>
+<text x="54" y="294" class="mono" font-size="11" fill="#e6edf3">fastapi<tspan fill="#6e7681">-0d32b</tspan></text>
+<text x="270" y="294" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="318" y="294" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="38" cy="311" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="1.84s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="311" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="1.84s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="1.84s" repeatCount="indefinite"/></circle>
+<text x="54" y="314" class="mono" font-size="11" fill="#e6edf3">rest-apis<tspan fill="#6e7681">-ac115</tspan></text>
+<text x="270" y="314" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="318" y="314" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<rect x="20" y="344" width="420" height="122" rx="8" fill="#161b22" stroke="#f1c40f" stroke-opacity="0.55"/>
+<text x="36" y="366" class="mono" font-size="11" font-weight="700" fill="#f1c40f">NAMESPACE  ai</text>
+<text x="270" y="366" class="mono" font-size="9" fill="#6e7681">READY</text>
+<text x="318" y="366" class="mono" font-size="9" fill="#6e7681">STATUS</text>
+<circle cx="38" cy="385" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="2.07s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="385" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="2.07s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="2.07s" repeatCount="indefinite"/></circle>
+<text x="54" y="388" class="mono" font-size="11" fill="#e6edf3">spring-ai<tspan fill="#6e7681">-8272e</tspan></text>
+<text x="270" y="388" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="318" y="388" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="38" cy="405" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="405" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="54" y="408" class="mono" font-size="11" fill="#e6edf3">rag-pipeline<tspan fill="#6e7681">-1b348</tspan></text>
+<text x="270" y="408" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="318" y="408" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="38" cy="425" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.23s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="425" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.23s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.23s" repeatCount="indefinite"/></circle>
+<text x="54" y="428" class="mono" font-size="11" fill="#e6edf3">embeddings<tspan fill="#6e7681">-d92c3</tspan></text>
+<text x="270" y="428" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="318" y="428" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="38" cy="445" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.46s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="445" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.46s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.46s" repeatCount="indefinite"/></circle>
+<text x="54" y="448" class="mono" font-size="11" fill="#e6edf3">anomaly-detection<tspan fill="#6e7681">-3750b</tspan></text>
+<text x="270" y="448" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="318" y="448" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<rect x="460" y="56" width="420" height="182" rx="8" fill="#161b22" stroke="#58a6ff" stroke-opacity="0.55"/>
+<text x="476" y="78" class="mono" font-size="11" font-weight="700" fill="#58a6ff">NAMESPACE  data</text>
+<text x="710" y="78" class="mono" font-size="9" fill="#6e7681">READY</text>
+<text x="758" y="78" class="mono" font-size="9" fill="#6e7681">STATUS</text>
+<circle cx="478" cy="97" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.69s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="97" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.69s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.69s" repeatCount="indefinite"/></circle>
+<text x="494" y="100" class="mono" font-size="11" fill="#e6edf3">postgresql<tspan fill="#6e7681">-e4728</tspan></text>
+<text x="710" y="100" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="100" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="478" cy="117" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.92s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="117" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.92s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.92s" repeatCount="indefinite"/></circle>
+<text x="494" y="120" class="mono" font-size="11" fill="#e6edf3">mysql<tspan fill="#6e7681">-81c3b</tspan></text>
+<text x="710" y="120" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="120" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="478" cy="137" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="1.15s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="137" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="1.15s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="1.15s" repeatCount="indefinite"/></circle>
+<text x="494" y="140" class="mono" font-size="11" fill="#e6edf3">mongodb<tspan fill="#6e7681">-685a5</tspan></text>
+<text x="710" y="140" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="140" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="478" cy="157" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="1.38s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="157" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="1.38s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="1.38s" repeatCount="indefinite"/></circle>
+<text x="494" y="160" class="mono" font-size="11" fill="#e6edf3">redis<tspan fill="#6e7681">-86a1b</tspan></text>
+<text x="710" y="160" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="160" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="478" cy="177" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="1.61s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="177" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="1.61s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="1.61s" repeatCount="indefinite"/></circle>
+<text x="494" y="180" class="mono" font-size="11" fill="#e6edf3">apache-kafka<tspan fill="#6e7681">-d2579</tspan></text>
+<text x="710" y="180" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="180" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="478" cy="197" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="1.84s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="197" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="1.84s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="1.84s" repeatCount="indefinite"/></circle>
+<text x="494" y="200" class="mono" font-size="11" fill="#e6edf3">jpa-hibernate<tspan fill="#6e7681">-284e1</tspan></text>
+<text x="710" y="200" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="200" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="478" cy="217" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="2.07s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="217" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="2.07s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="2.07s" repeatCount="indefinite"/></circle>
+<text x="494" y="220" class="mono" font-size="11" fill="#e6edf3">pgvector<tspan fill="#6e7681">-cc5e2</tspan></text>
+<text x="710" y="220" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="220" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<rect x="460" y="250" width="420" height="216" rx="8" fill="#161b22" stroke="#ff6b35" stroke-opacity="0.55"/>
+<text x="476" y="272" class="mono" font-size="11" font-weight="700" fill="#ff6b35">NAMESPACE  devops</text>
+<text x="710" y="272" class="mono" font-size="9" fill="#6e7681">READY</text>
+<text x="758" y="272" class="mono" font-size="9" fill="#6e7681">STATUS</text>
+<circle cx="478" cy="291" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="291" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="494" y="294" class="mono" font-size="11" fill="#e6edf3">docker<tspan fill="#6e7681">-05b60</tspan></text>
+<text x="710" y="294" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="294" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="478" cy="311" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.23s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="311" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.23s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.23s" repeatCount="indefinite"/></circle>
+<text x="494" y="314" class="mono" font-size="11" fill="#e6edf3">kubernetes<tspan fill="#6e7681">-b76e9</tspan></text>
+<text x="710" y="314" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="314" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="478" cy="331" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.46s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="331" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.46s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.46s" repeatCount="indefinite"/></circle>
+<text x="494" y="334" class="mono" font-size="11" fill="#e6edf3">jenkins<tspan fill="#6e7681">-ab63a</tspan></text>
+<text x="710" y="334" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="334" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="478" cy="351" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.69s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="351" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.69s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.69s" repeatCount="indefinite"/></circle>
+<text x="494" y="354" class="mono" font-size="11" fill="#e6edf3">argo-cd<tspan fill="#6e7681">-6eca0</tspan></text>
+<text x="710" y="354" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="354" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="478" cy="371" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="0.92s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="371" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="0.92s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="0.92s" repeatCount="indefinite"/></circle>
+<text x="494" y="374" class="mono" font-size="11" fill="#e6edf3">prometheus<tspan fill="#6e7681">-e4f00</tspan></text>
+<text x="710" y="374" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="374" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="478" cy="391" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="1.15s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="391" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="1.15s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="1.15s" repeatCount="indefinite"/></circle>
+<text x="494" y="394" class="mono" font-size="11" fill="#e6edf3">grafana<tspan fill="#6e7681">-d9c0e</tspan></text>
+<text x="710" y="394" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="394" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="478" cy="411" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="1.38s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="411" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="1.38s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="1.38s" repeatCount="indefinite"/></circle>
+<text x="494" y="414" class="mono" font-size="11" fill="#e6edf3">opentelemetry<tspan fill="#6e7681">-9f2b8</tspan></text>
+<text x="710" y="414" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="414" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<circle cx="478" cy="431" r="3.5" fill="#00e5a0"><animate attributeName="opacity" values="1;0.35;1" dur="2.2s" begin="1.61s" repeatCount="indefinite"/></circle>
+<circle cx="478" cy="431" r="3.5" fill="none" stroke="#00e5a0"><animate attributeName="r" values="3.5;9" dur="2.2s" begin="1.61s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" begin="1.61s" repeatCount="indefinite"/></circle>
+<text x="494" y="434" class="mono" font-size="11" fill="#e6edf3">git<tspan fill="#6e7681">-ba9f1</tspan></text>
+<text x="710" y="434" class="mono" font-size="11" fill="#8b949e">1/1</text>
+<text x="758" y="434" class="mono" font-size="11" fill="#00e5a0">Running</text>
+<rect x="20" y="478" width="860" height="94" rx="8" fill="#161b22" stroke="#30363d"/><text x="36" y="500" class="mono" font-size="11" font-weight="700" fill="#8b949e">EVENTS</text>
+<text x="36" y="520" class="mono" font-size="11" opacity="0"><tspan fill="#00e5a0">Normal</tspan><tspan fill="#58a6ff">  Pulled    </tspan><tspan fill="#c9d1d9"> image "eclipse-temurin:21" already present on machine</tspan>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="10s" begin="0.0s" repeatCount="indefinite"/></text>
+<text x="36" y="534" class="mono" font-size="11" opacity="0"><tspan fill="#00e5a0">Normal</tspan><tspan fill="#58a6ff">  Started   </tspan><tspan fill="#c9d1d9"> container spring-boot  (no restarts, 0 unhandled exceptions)</tspan>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="10s" begin="1.4s" repeatCount="indefinite"/></text>
+<text x="36" y="548" class="mono" font-size="11" opacity="0"><tspan fill="#00e5a0">Normal</tspan><tspan fill="#58a6ff">  Scheduled </tspan><tspan fill="#c9d1d9"> pod/kafka-0 assigned to node/inpt-rabat</tspan>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="10s" begin="2.8s" repeatCount="indefinite"/></text>
+<text x="36" y="562" class="mono" font-size="11" opacity="0"><tspan fill="#00e5a0">Normal</tspan><tspan fill="#58a6ff">  ScalingUp </tspan><tspan fill="#c9d1d9"> deployment/curiosity  replicas: 1 → ∞</tspan>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="10s" begin="4.199999999999999s" repeatCount="indefinite"/></text>
+</svg>

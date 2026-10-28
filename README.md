@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="C:/Users/Lenovo/Documents/hero.svg" width="100%" alt="Mohamed - Software Engineering Student @ INPT | Backend & Distributed Systems"/>
+<img src="assets/hero.svg" width="100%" alt="Mohamed - Software Engineering Student @ INPT | Backend & Distributed Systems"/>
 
 <br/>
 
@@ -46,7 +46,7 @@ Internship backend exploring intelligent matching between healthcare requests an
 ## ☸️ My stack, as `kubectl get pods -A`
 
 <div align="center">
-<img src="file:///C:/Users/Lenovo/Documents/stack.svg" width="100%" alt="Tech stack shown as running Kubernetes pods grouped by namespace"/>
+<img src="assets/stack.svg" width="100%" alt="Tech stack shown as running Kubernetes pods grouped by namespace"/>
 </div>
 
 ## 🏅 Certifications
@@ -79,7 +79,7 @@ Internship backend exploring intelligent matching between healthcare requests an
 
 <div align="center">
 
-<img src="file:///C:/Users/Lenovo/Documents/status.svg" width="100%" alt="Availability dashboard with a heartbeat line"/>
+<img src="assets/status.svg" width="100%" alt="Availability dashboard with a heartbeat line"/>
 
 <br/>
 
@@ -93,4 +93,3 @@ I'm interested in software engineering opportunities and discussions about backe
 *Building, learning, and improving — one system at a time.*
 
 </div>
-
