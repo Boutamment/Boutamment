@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="file:///C:/Users/Lenovo/Documents/hero.svg" width="100%" alt="Mohamed - Software Engineering Student @ INPT | Backend & Distributed Systems"/>
+<img src="C:/Users/Lenovo/Documents/hero.svg" width="100%" alt="Mohamed - Software Engineering Student @ INPT | Backend & Distributed Systems"/>
 
 <br/>
 
