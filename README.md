@@ -53,8 +53,8 @@ Internship backend exploring intelligent matching between healthcare requests an
 
 <div align="center">
 
-<a href="https://catalog-education.oracle.com/"><img src="https://img.shields.io/badge/ORACLE-JAVA%20SE%2021%20DEVELOPER-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Java SE 21"/></a>
-<a href="https://catalog-education.oracle.com/"><img src="https://img.shields.io/badge/ORACLE-JAVA%20SE%2017%20DEVELOPER-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Java SE 17"/></a>
+<a href="[https://catalog-education.oracle.com/](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=F5BF8867E3C8837D18FD517369B989AC87D85071C6BEF20D546012C1C142F4F3)"><img src="https://img.shields.io/badge/ORACLE-JAVA%20SE%2021%20DEVELOPER-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Java SE 21"/></a>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2BC971793512848D9A5A55C91027A07137A61076A0B02DFD01895B7EEFCC8800"><img src="https://img.shields.io/badge/ORACLE-JAVA%20SE%2017%20DEVELOPER-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Java SE 17"/></a>
 
 </div>
 
