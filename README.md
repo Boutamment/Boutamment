@@ -19,34 +19,20 @@ I'm a Software Engineering student at the **National Institute of Posts and Tele
 - Exploring cloud-native technologies, containerization, and DevOps
 - Building AI-assisted applications and intelligent backend systems
 
-## 🔭 My profile, as a distributed trace
+## 🧱 Tech Stack
 
 <div align="center">
-<img src="assets/trace.svg" width="100%" alt="Profile rendered as a distributed trace: education, internship, projects, certifications, learning"/>
+<img src="assets/stack-layers.svg" width="100%" alt="Technology stack organized in layers: languages, backend, data and streams, AI, observability, cloud and DevOps"/>
 </div>
 
-<details>
-<summary><b>🔍 Expand span details (projects)</b></summary>
-<br/>
-
-**🔍 Intelligent Microservices Debugging Platform**
-Distributed observability combined with AI-assisted root-cause analysis: logs, metrics, and traces from microservices, anomaly detection, Kafka-based event processing, and LLM + RAG explanations.
-`Java` `Spring Boot` `Spring Cloud` `Kafka` `OpenTelemetry` `Prometheus` `Grafana` `Kubernetes` `Spring AI`
-
-**☁️ Cloud FinOps Platform**
-Cloud cost visibility and optimization: Spring Boot backend with JWT auth and RBAC, a cost-analysis dashboard, and AI-assisted recommendations.
-`Java` `Spring Boot` `Spring Security` `PostgreSQL` `React` `Docker` `Jenkins`
-
-**⚡ Real-Time Medical Dispatch Engine**
-Internship backend exploring intelligent matching between healthcare requests and professionals using simulated data: queue-based processing, availability matching, semantic matching with embeddings and vector search, and monitoring.
-`Java 21` `Spring Boot` `Python` `FastAPI` `Redis` `PostgreSQL` `pgvector` `Sentence Transformers` `Prometheus` `Grafana`
-
-</details>
-
-## ☸️ My stack, as `kubectl get pods -A`
+## ⚡ Technologies
 
 <div align="center">
-<img src="assets/stack.svg" width="100%" alt="Tech stack shown as running Kubernetes pods grouped by namespace"/>
+<img src="assets/marquee.svg" width="100%" alt="Scrolling list of technologies"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,spring,fastapi,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,jenkins,prometheus,grafana,git,gitlab&perline=9&theme=dark" alt="Technology icons"/>
 </div>
 
 ## 🏅 Certifications
@@ -65,9 +51,9 @@ Internship backend exploring intelligent matching between healthcare requests an
 <img src="https://streak-stats.demolab.com?user=Boutamment&theme=tokyonight&hide_border=true&ring=00b4ff&fire=ff6b35&currStreakLabel=00b4ff" alt="Contribution streak"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boutamment/Boutamment/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boutamment/Boutamment/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Boutamment/Boutamment/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boutamment/Boutamment/output/github-snake-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boutamment/Boutamment/output/github-snake.svg?v=2"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Boutamment/Boutamment/output/github-snake.svg?v=2"/>
 </picture>
 
 </div>
